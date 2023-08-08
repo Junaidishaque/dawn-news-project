@@ -1,0 +1,39 @@
+nav{background-color: black; text-align: center;}
+nav>a{text-decoration: none; color: white; font-size: 20px; text-transform: uppercase;}
+header{text-align: center;}
+span>a{text-decoration: none; color: black; font-size: 13px;}
+p.head{font-size: 40px; text-align: center; font-family: 'BenchNine', sans-serif;
+    font-family: 'Narnoor', serif;
+    font-family: 'Redacted', cursive;
+    font-family: 'Varela Round', sans-serif;}
+figure{margin-left: 18%;}
+p.bold{margin-left: 18% ; font-weight: bolder; font-size: 23px;}
+ .icon-con{
+    width: 200px;
+    height: 40px;
+     /* border: 1px solid black; */
+    float: right;
+    position: relative;
+    bottom: 8px;
+    
+    
+    
+}
+i{
+
+    font-size: 25px;
+    padding: 6px;
+    position: relative;
+    /* bottom: 13px; */
+    
+    
+}
+input.search{border: none;}
+p.style{margin-left:18% ;font-size: 23px; font-weight: lighter;}
+.comments{margin-left: 18%; font-size: 23px; border: none;width: 20%;background-color: lightgray;}
+.color{color: red;margin-left: 18%;}
+.small{margin-left: 18%; font-size: small;}
+textarea{margin-left: 18%;width: 65%; border: none; background-color: lightgray;}
+input.submit{margin-left: 18%;}
+a.none{text-decoration: none;}
+
